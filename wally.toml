@@ -1,0 +1,8 @@
+[package]
+name = "glitchaether/statestore"
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "A Redux-like state management library for Roblox."
+authors = ["Glitch Aether"]
+license = "MIT"
